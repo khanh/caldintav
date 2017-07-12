@@ -22,7 +22,7 @@ You can use `pip` to install joblib::
 
 from any directory or
 
-    python setup.py install
+    python setup.py sdist
 
 from the source directory.
 
