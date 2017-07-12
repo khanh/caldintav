@@ -1,4 +1,6 @@
-# caldintav
+CALDINTAV-v3.0
+=========================
+
 Caldintav is a program for the dynamic calculation of railway bridges developed in Python language by the Computational Mechanics Group of the Technical University of Madrid, Spain.
 
 The homepage of caldintav program with user documentation is located on:
